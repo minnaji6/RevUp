@@ -1,2 +1,2 @@
 # RevUp
-Learning Java
+Revisiting Java basics
